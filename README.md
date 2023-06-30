@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malshi Sathsarani</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-[<img src="https://www.istockphoto.com/photos/computer-software">](https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg)
+<img src="https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg">
 
 - 🔭 I’m currently working on **MyPortfolio**
 
